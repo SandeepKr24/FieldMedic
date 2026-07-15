@@ -6,6 +6,17 @@ The system combines Retrieval-Augmented Generation (RAG), semantic search, clini
 
 ---
 
+## Screenshots
+
+### Home
+
+![Home](assets/home.png)
+
+### Triage Result
+
+![Result](assets/result1.png)
+![Result](assets/result2.png)
+
 ## Features
 
 - AI-powered patient triage
