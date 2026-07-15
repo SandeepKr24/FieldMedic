@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Chest pain",
+        "symptoms": "Patient has severe chest pain and shortness of breath.",
+        "expected_triage": "Emergency"
+    },
+    {
+        "name": "Mild headache",
+        "symptoms": "Patient has a mild headache for one day.",
+        "expected_triage": "Monitor"
+    },
+    {
+        "name": "High fever",
+        "symptoms": "Patient has a fever of 39.8 C and chills.",
+        "expected_triage": "Urgent"
+    }
+]
