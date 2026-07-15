@@ -89,7 +89,7 @@ FieldMedic/
 Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/FieldMedic.git
+git clone https://github.com/SandeepKr24/FieldMedic.git
 cd FieldMedic
 ```
 
@@ -167,7 +167,7 @@ Health check endpoint.
 
 ## Future Improvements
 
-- PDF knowledge ingestion
+- Images knowledge ingestion
 - Multi-provider LLM support
 - Authentication
 - Explainable AI citations
